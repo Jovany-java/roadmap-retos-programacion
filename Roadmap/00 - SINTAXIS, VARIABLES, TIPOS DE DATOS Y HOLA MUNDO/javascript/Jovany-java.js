@@ -25,32 +25,25 @@
       const Myconstan =0;
       
  //* - Crea variables representando todos los tipos de datos primitivos del lenguaje (cadenas de texto, enteros, booleanos...).
-      //int
-            let My_int = 7;
+    
+    
+      //NUll 
+            let Null = null;
 
-      //String
-            let My_String = "i'm programmer";
+      //Undefined
+            let Undefined = undefined;
 
       //Boleean- True && false
 
              let My_BoleeanT = true;
              let My_BoleeanF= false;
 
-      //Float
-
-            let My_flaot = 10.9;
-
-      //NUll 
-            let NULL = null;
-
-      //Undefined
-            let Undefined = undefined;
-
-      
-
       //Number
-            let My_Number = NaN;
-      
+            let My_Number = 14;
+
+      //String
+            let My_String = "i'm programmer";
+
       //Bigint
             let My_Bigint = 300n;
 
@@ -58,8 +51,6 @@
             let sym1 = Symbol();
             let sym2 = Symbol("FOG");      
 
- 
- 
  // * - Imprime por terminal el texto: "¡Hola, [y el nombre de tu lenguaje]!"
 
 console.log( "¡Hola, Java Script!");
