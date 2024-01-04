@@ -41,7 +41,7 @@
             let My_flaot = 10.9;
 
       //NUll 
-            let NULL = NaN;
+            let NULL = null;
 
       //Undefined
             let Undefined = undefined;
@@ -49,7 +49,7 @@
       
 
       //Number
-            let My_Number = 14;
+            let My_Number = NaN;
       
       //Bigint
             let My_Bigint = 300n;
