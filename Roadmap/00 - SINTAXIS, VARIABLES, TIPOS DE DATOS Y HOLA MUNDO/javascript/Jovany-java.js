@@ -29,7 +29,7 @@
             let My_int = 7;
 
       //String
-            let My_String = "i'm programmer"
+            let My_String = "i'm programmer";
 
       //Boleean- True && false
 
@@ -41,7 +41,7 @@
             let My_flaot = 10.9;
 
       //NUll 
-            let NULL = null;
+            let NULL = NaN;
 
       //Undefined
             let Undefined = undefined;
